@@ -1,0 +1,85 @@
+[
+    {
+        "precio": 18, 
+        "id": 1, 
+        "title": "Airheads", 
+        "thumbnailUrl": "https://ileac-churn.000webhostapp.com/Dulces/airheads.jpg"
+    }, 
+
+    {
+        "precio": 28, 
+        "id": 2, 
+        "title": "Bubulubu", 
+        "thumbnailUrl": "https://ileac-churn.000webhostapp.com/Dulces/bubulubu.jpg"
+    }, 
+
+    {
+        "precio": 38, 
+        "id": 3, 
+        "title": "Dumdum", 
+        "thumbnailUrl": "https://ileac-churn.000webhostapp.com/Dulces/dumdum.jpg"
+    }, 
+
+    {
+        "precio": 18, 
+        "id": 4, 
+        "title": "Duvalin", 
+        "thumbnailUrl": "https://ileac-churn.000webhostapp.com/Dulces/duvalin.jpg"
+    }, 
+
+    {
+        "precio": 19, 
+        "id": 5, 
+        "title": "Fruitroll Up", 
+        "thumbnailUrl": "https://ileac-churn.000webhostapp.com/Dulces/fruitroll.jpg"
+    }, 
+
+    {
+        "precio": 8, 
+        "id": 6, 
+        "title": "Jolly Rancher", 
+        "thumbnailUrl": "https://ileac-churn.000webhostapp.com/Dulces/jollyrancher.jpg"
+    }, 
+
+    {
+        "precio": 23, 
+        "id": 7, 
+        "title": "M&M's", 
+        "thumbnailUrl": "https://ileac-churn.000webhostapp.com/Dulces/m&ms.jpg"
+    }, 
+
+    {
+        "precio": 18, 
+        "id": 8, 
+        "title": "Paleta Payaso", 
+        "thumbnailUrl": "https://ileac-churn.000webhostapp.com/Dulces/paletapayaso.jpg"
+    }, 
+
+    {
+        "precio": 23, 
+        "id": 9, 
+        "title": "Pulparindo", 
+        "thumbnailUrl": "https://ileac-churn.000webhostapp.com/Dulces/pulparindo.jpg"
+    }, 
+
+    {
+        "precio": 17, 
+        "id": 10, 
+        "title": "Skittles", 
+        "thumbnailUrl": "https://ileac-churn.000webhostapp.com/Dulces/skittles.jpg"
+    }, 
+
+    {
+        "precio": 17, 
+        "id": 11, 
+        "title": "Sour Patch Kids", 
+        "thumbnailUrl": "https://ileac-churn.000webhostapp.com/Dulces/sourpatch.jpg"
+    }, 
+
+    {
+        "precio": 17, 
+        "id": 12, 
+        "title": "Sour Punch", 
+        "thumbnailUrl": "https://ileac-churn.000webhostapp.com/Dulces/sourpunch.jpg"
+    }
+]
